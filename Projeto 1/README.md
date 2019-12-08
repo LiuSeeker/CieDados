@@ -13,7 +13,7 @@ Como a área de residência, a quantidade de moradores e a renda mensal (em R$) 
 - jupyter notebook
 ---
 (EN-US)
-### Porject 1 - Analysis of the relationship between monthly income, number of residents per household and residential area, and broadband and 3G / 4G use in Minas Gerais
+### Project 1 - Analysis of the relationship between monthly income, number of residents per household and residential area, and broadband and 3G / 4G use in Minas Gerais
 
 **Abstract**: This project aims to analyze, according to available "Pesquisa Nacional por Amostra de Domicílios Contínua" (PNADs), the different characteristics of the population of Minas Gerais in relation to internet access. Thus, it is possible to define the model domicile profile for possible investments in other states.
 
