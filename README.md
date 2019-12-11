@@ -8,6 +8,7 @@
 ---
 
 (PT-BR)
+
 Repositório com aulas, atividades práticas supervisionadas (APS) e projetos da matéria de Ciências dos Dados.
 
 ### Projetos:
