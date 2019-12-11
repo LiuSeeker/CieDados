@@ -4,7 +4,7 @@
 - [ehrhardt98](https://github.com/ehrhardt98)
 - [LiuSeeker](https://github.com/LiuSeeker)
 
-#### *2017.02*
+#### *2017 2º semestre / 2017 2nd semester*
 ---
 
 (PT-BR)
